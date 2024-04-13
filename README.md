@@ -1,7 +1,7 @@
 ### About this repository 
 
-This repository hosts the Matlab based code packages associated with our manuscript titled “STAR-FDTD : Space-time modulated acousto-optic guidestar in disordered media”, 
-Michael Raju, Baptiste Jayet and Stefan Andersson-Engels, Tyndall National Institute, University College Cork, Ireland, currently under review in *Journal of Physics : Photonics, 
+This repository hosts the Matlab based Finite Difference Time Domain (*FDTD*) code packages associated with our manuscript titled “STAR-FDTD : Space-time modulated acousto-optic guidestar in disordered media”, 
+Michael Raju, Baptiste Jayet and Stefan Andersson-Engels, Tyndall National Institute, University College Cork, Ireland. The manuscript is currently under review in *Journal of Physics : Photonics, 
 Focus Issue on Foundational Skills and Tools for Building Wavefront Shaping Systems*, submitted on Nov 30, 2023. The [user manual](/User_manual.pdf)
 is provided here within the repository. It is recommended to go through the user manual to understand the directory structure of the code packages.
 
