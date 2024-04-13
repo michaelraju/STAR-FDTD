@@ -1,4 +1,5 @@
 ### About this repository 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10969149.svg)](https://doi.org/10.5281/zenodo.10969149)
 
 This repository hosts the Matlab based Finite Difference Time Domain (*FDTD*) code packages associated with our manuscript titled “STAR-FDTD : Space-time modulated acousto-optic guidestar in disordered media”, 
 Michael Raju, Baptiste Jayet and Stefan Andersson-Engels, Tyndall National Institute, University College Cork, Ireland. The manuscript is currently under review in *Journal of Physics : Photonics, 
