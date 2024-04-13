@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Raju"
+  given-names: "Michael"
+  orcid: "https://orcid.org/0009-0004-6808-7824"
+- family-names: "Jayet"
+  given-names: "Baptiste"
+  orcid: "https://orcid.org/0000-0003-2459-247X"
+- family-names: "Andersson-Engels"
+  given-names: "Stefan"
+  orcid: "https://orcid.org/0000-0001-5640-3122"
+title: "Matlab code packages for STAR-FDTD : Space-time modulated acousto-optic guidestar in disordered media"
+version: 1.0.0
+doi: 10.5281/zenodo.10969149
+date-released: 2024-04-13
+url: "https://github.com/michaelraju/STAR-FDTD.git"
