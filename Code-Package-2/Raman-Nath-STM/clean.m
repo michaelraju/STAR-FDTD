@@ -1,0 +1,1 @@
+delete *.fig *.eps *.svg *.mat
